@@ -5,7 +5,7 @@
 #THIS TOOL IS OUTDATED GO CHECK OUT MY NEWER TOOL HTK-LITE BELOW
 
 
-https://github.com/unkn0wnh4ckr/htk-lite
+https://github.com/prataennaimjoi/hackers/htk-lite
 
 
 
@@ -28,7 +28,7 @@ Its a framework filled with alot of options and hacking tools you use directly i
 ![](tools/screenshot7.png)
 # install
 
-* `git clone https://github.com/unkn0wnh4ckr/hackers-tool-kit`
+* `git clone https://github.com/prataennaimjoi/hackers`
 
 * `cd hackers-tool-kit`
 
