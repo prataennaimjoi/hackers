@@ -30,7 +30,7 @@ Its a framework filled with alot of options and hacking tools you use directly i
 
 * `git clone https://github.com/prataennaimjoi/hackers`
 
-* `cd hackers-tool-kit`
+* `cd hackers`
 
 * `python install.py`
 
@@ -38,7 +38,7 @@ Its a framework filled with alot of options and hacking tools you use directly i
 
 ROOT IS NOT REQUIRED TO RUN BUT IS RECOMMENDED
 
-* `cd hackers-tool-kit`
+* `cd hackers`
 
 * `python htk.py`
 
