@@ -5,7 +5,7 @@
 #THIS TOOL IS OUTDATED GO CHECK OUT MY NEWER TOOL HTK-LITE BELOW
 
 
-https://github.com/unkn0wnh4ckr/htk-lite
+https://github.com/prataennaimjoi/htk-lite
 
 
 
